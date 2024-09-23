@@ -1,4 +1,4 @@
-<h1>Bem-vindo ao [Seu Nome de Usuário no GitHub] 👋</h1>
+<h1>Bem-vindo ao SaalgaDev👋</h1>
 
 <p>🎨 <strong>Sobre mim:</strong></p>
 <p>Sou um desenvolvedor apaixonado por estética, código limpo e resolução criativa de problemas. Seja criando interfaces de usuário elegantes ou mergulhando em lógica de backend, busco sempre trazer um toque de magia a cada projeto. Quando não estou codificando, você me encontra explorando novas tecnologias ou aperfeiçoando meus projetos paralelos!</p>
