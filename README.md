@@ -1,39 +1,65 @@
-<h1>Bem-vindo ao SaalgaDev👋</h1>
-
-<p>🎨 <strong>Sobre mim:</strong></p>
-<p>Sou um desenvolvedor apaixonado por estética, código limpo e resolução criativa de problemas. Seja criando interfaces de usuário elegantes ou mergulhando em lógica de backend, busco sempre trazer um toque de magia a cada projeto. Quando não estou codificando, você me encontra explorando novas tecnologias ou aperfeiçoando meus projetos paralelos!</p>
-
-<br>
-
-<h2>🚀 O que eu faço:</h2>
-
-<p>🔹 <strong>Linguagens e Tecnologias:</strong></p>
-<ul>
-    <li><strong>HTML, CSS, JavaScript</strong> – Criando websites dinâmicos e responsivos</li>
-    <li><strong>C</strong> – Desenvolvendo sistemas eficientes e resolvendo desafios algorítmicos</li>
-    <li><strong>MySQL</strong> – Gerenciando bancos de dados e garantindo a integridade dos dados</li>
-</ul>
-
-<p>🔹 <strong>Aprendendo e Explorando:</strong></p>
-<ul>
-    <li>Python 🐍</li>
-    <li>Inteligência Artificial & Machine Learning 🤖</li>
-    <li>Tecnologias de Nuvem ☁️</li>
-</ul>
+<div style="display: inline_block"></br>
+    <img align="center" alt="html5" src="github-header-image1.png"/>
+</div>
 
 <br>
-
-<h2>🔥 Curiosidades:</h2>
-
-<ul>
-    <li>🎓 Sempre aprendendo algo novo</li>
-    <li>🌱 Entusiasta de mentalidade de crescimento</li>
-    <li>✨ Transformando café em código</li>
-    <li>🎮 Amo gamificar tudo</li>
-</ul>
-
 <br>
 
-<h2>🤝 Vamos Colaborar:</h2>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=870&color=6136CA&center=true&vCenter=true&width=435&lines=Welcome%3A;To+My+GitHub!)](https://git.io/typing-svg)
+ 
+</div>    
 
-<p>Fique à vontade para dar um fork, clonar ou abrir uma issue se quiser bater um papo ou colaborar! 👨‍💻</p>
+
+
+<br>
+<br>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/guilhermesouzadev/">
+    <img src="./linkedin.png" alt="LinkedIn" height="35" width="35" />
+  </a>
+  &nbsp; <!-- Espaço entre os ícones -->
+  <a href="https://www.instagram.com/_illuminatedsouza/">
+    <img src="./instagram.png" alt="Instagram" height="35" width="35" />
+  </a>
+  &nbsp; <!-- Espaço entre os ícones -->
+
+</div>
+
+<br>  
+<br>
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaalgaDev&show_icons=true&theme=dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaalgaDev&layout=compact&theme=dark)
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=870&color=6136CA&center=true&vCenter=true&width=435&lines=Technologies+I+use+daily)](https://git.io/typing-svg)
+
+<div align="center">
+    
+</div>
+
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c)](https://skillicons.dev)
+
+</div>
+
+<br>
+<br>
+
+<div style="display: inline_block"></br>
+    <img align="center" alt="html5" src="github-header-image.png"/>
+</div>
