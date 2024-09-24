@@ -18,11 +18,11 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/guilhermesouzadev/">
+  <a href="https://www.linkedin.com/in/gustavo-salgado-de-almeida-269372329/w">
     <img src="./linkedin.png" alt="LinkedIn" height="35" width="35" />
   </a>
   &nbsp; <!-- Espaço entre os ícones -->
-  <a href="https://www.instagram.com/_illuminatedsouza/">
+  <a href="https://www.instagram.com/salgadinz/">
     <img src="./instagram.png" alt="Instagram" height="35" width="35" />
   </a>
   &nbsp; <!-- Espaço entre os ícones -->
