@@ -37,7 +37,6 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <!--C#-->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <!--ReactJs-->
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> <!--Spring-->
-    <a href=""> <img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="Game Maker" width="40" height="40"></a>
 </div>
     
   <div align="left">
