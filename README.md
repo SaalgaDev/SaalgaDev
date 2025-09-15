@@ -8,7 +8,6 @@
   <h3 align="center">Professional Connections: </h3>
   <a href="https://br.linkedin.com/in/gustavo-salgado-de-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:gustavosalgadodealmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/rickydev1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
   <h2>🚀 Where I Code: </h2>
 <div align="center">
