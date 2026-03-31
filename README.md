@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gustavo!👋</h1>
+<h1 align="center">Hey, I'm Salgado!👋</h1>
 
 - 👨🏼‍🎓 **Currently studying Systems Development at ETEC**
 - 💬 Ask me about **Anything! I am always open to questions!**
