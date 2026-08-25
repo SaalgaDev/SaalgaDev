@@ -1,46 +1,107 @@
-<h1 align="center">Hey, I'm Salgado!👋</h1>
-
-- 👨🏼‍🎓 **Currently studying Systems Development at ETEC**
-- 💬 Ask me about **Anything! I am always open to questions!**
-- ⚡ Fun fact **I'm always trying to learn something new**
-<div align="center"> 
-  <h2 align="left">📢 Get in Touch!</h2>
-  <h3 align="center">Professional Connections: </h3>
-  <a href="https://br.linkedin.com/in/gustavo-salgado-de-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="mailto:gustavosalgadodealmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-  <h2>🚀 Where I Code: </h2>
 <div align="center">
-  <br>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=blue" target="_blank"></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=green" target="_blank"></a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black&labelColor=darkorchid" target="_blank"></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
+
+# Gustavo Salgado
+
+**Systems Development Student · Back-end Development · Java, SQL & JavaScript**
+
+📍 São Paulo, Brazil · Open to Internship Opportunities
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salgado-de-almeida/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
 </div>
 
-<h2 align="left">📃Languages & Tools:</h2>
+---
 
-<div align="left">
-  <h3>💻Skils:</h3>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <!--Html-->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <!--Css-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40"height="40"/> </a> <!--JavaScript-->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <!-- C -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <!--C++-->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <!--Figma-->
-</div>
+## 01 — whoami
 
-<div align="left">
-  <h3>🎒Learning:</h3>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> <!--Python-->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <!--Java-->
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <!--C#-->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <!--ReactJs-->
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> <!--Spring-->
-</div>
-    
-  <div align="left">
-  <h2>📈 Activity Overview:</h2>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaalgaDev&show_icons=true&title_color=00df7f7&text_color=dddd&bg_color=0d1117" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaalgaDev&size_weight=0.5&count_weight=0.5&hide_progress=false&layout=donut&title_color=00df7f7&text_color=dddd&bg_color=0d1117" alt="Top Langs" />
-    </div>
+I'm a third-year **Systems Development** student at ETEC, currently seeking my first opportunity as an **Intern or Apprentice in Technology**.
+
+Throughout my studies I've worked on projects involving **Python, Java, SQL, JavaScript, C#**, and web development, applying programming and data analysis skills to solve practical challenges and improve system efficiency.
+
+My main interests are **Back-end Development** and **Data Analysis** — I enjoy understanding how technology transforms raw information into valuable solutions. Fluent in English, highly motivated to learn, and always looking for opportunities to grow and contribute to meaningful projects.
+
+---
+
+## 02 — stack
+
+**Core:**
+
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![C#](https://skillicons.dev/icons?i=cs)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+
+**Frameworks & Data:**
+
+![Spring](https://skillicons.dev/icons?i=spring)
+![Angular](https://skillicons.dev/icons?i=angular)
+![React](https://skillicons.dev/icons?i=react)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 03 — projects
+
+### 🎯 Eranitor — Capstone Project (TCC)
+A study management and academic organization platform.
+- Frontend in **Angular 17+** (standalone components), TypeScript & SCSS
+- Backend in **Java Spring Boot** with JWT authentication + PostgreSQL
+- Custom task-prioritization algorithm (difficulty, proximity, delay and progress)
+- Long-term vision: gamified learning (XP, streaks, achievements)
+
+### 🌐 TechSolutions Brasil — Integrative Project
+Full corporate network simulation built in Cisco Packet Tracer.
+- 3 buildings, 7 floors each, 11 VLANs, WAN and OSPF
+- Complete CLI configuration for 21 L2 switches, 3 L3 switches and 3 routers
+- DHCP relay across a full WAN + OSPF path to a central server
+
+### 🐍 Smaller academic projects
+| Project | Description | Stack |
+|---|---|---|
+| [Python-IMC-test](https://github.com/SaalgaDev/Python-IMC-test) | BMI calculator with input validation | Python |
+| [Gerenciar-compras](https://github.com/SaalgaDev/Gerenciar-compras) | File-based purchase logging & search system | C++ |
+| [PassWord-python](https://github.com/SaalgaDev/PassWord-python) | Password checker with attempt limit | Python |
+| [CelsiusFahrenheit-python](https://github.com/SaalgaDev/CelsiusFahrenheit-python) | Temperature converter | Python |
+
+---
+
+## 04 — the route
+
+```
+ETEC — Systems Development (in progress)
+   │
+   ├─ Java course: 13 standalone exercises (loops, arrays, validation, recursion)
+   │
+   ├─ TechSolutions Brasil — corporate network simulation (Packet Tracer)
+   │
+   └─ Eranitor — capstone project (Angular + Spring Boot) ── in development
+                                                                     │
+                                                          seeking first internship ►
+```
+
+---
+
+## 05 — status
+
+🟢 **Open to internships, networking, and new challenges.**
+🎯 Focused on Back-end Development & Data Analysis.
+📚 Currently deepening knowledge in Java, Spring and React.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SaalgaDev&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaalgaDev&layout=compact&theme=tokyonight" height="165" />
+</p>
