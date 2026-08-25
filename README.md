@@ -4,5 +4,14 @@
 <h2>🚀 Featured Projects</h2> <h3>🎯 Eranitor — Capstone Project (TCC)</h3> <p> A study management and academic organization platform designed to help students organize tasks and improve their academic productivity. </p> <ul> <li>Frontend built with <strong>Angular 17+</strong>, TypeScript and SCSS</li> <li>Backend developed with <strong>Java + Spring Boot</strong></li> <li><strong>JWT authentication</strong></li> <li><strong>PostgreSQL</strong> database</li> <li>Custom task-prioritization algorithm based on difficulty, proximity, delay and progress</li> <li>Long-term vision including XP, streaks and achievements</li> </ul> <h3>🌐 TechSolutions Brasil — Integrative Project</h3> <p> A complete corporate network simulation developed using <strong>Cisco Packet Tracer</strong>. </p> <ul> <li>3 buildings with 7 floors each</li> <li>11 VLANs</li> <li>WAN infrastructure</li> <li>OSPF routing</li> <li>21 Layer 2 switches</li> <li>3 Layer 3 switches</li> <li>3 routers</li> <li>DHCP relay across the WAN</li> </ul>
 <h2>🎯 Current Focus</h2> <table> <tr> <td>💻 <strong>Back-end</strong></td> <td>Java · Spring Boot · REST APIs</td> </tr> <tr> <td>🗄️ <strong>Databases</strong></td> <td>SQL · MySQL · PostgreSQL</td> </tr> <tr> <td>📊 <strong>Data</strong></td> <td>Python · Data Analysis</td> </tr> <tr> <td>🌐 <strong>Frontend</strong></td> <td>Angular · React · TypeScript</td> </tr> </table>
 <h2>📊 GitHub Statistics</h2> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaalgaDev&theme=tokyonight" height="170" alt="Gustavo's GitHub Statistics" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaalgaDev&theme=tokyonight" height="170" alt="Gustavo's Top Languages" /> </p>
-<h2>📈 Contribution Streak</h2> <p align="center"> <img src="https://streak-stats.demolab.com/?user=SaalgaDev&theme=tokyonight&hide_border=true" height="195" alt="GitHub Contribution Streak" /> </p>
+<h2>📈 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SaalgaDev&theme=tokyonight&hide_border=true"
+    height="195"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 <h2>📫 Let's Connect</h2> <p align="center"> <strong>Open to internships, networking and opportunities in technology.</strong> </p> <p align="center"> <a href="https://www.linkedin.com/in/gustavo-salgado-de-almeida/"> LinkedIn </a> &nbsp; • &nbsp; <a href="https://www.instagram.com/salgadinz/"> Instagram </a> &nbsp; • &nbsp; <a href="https://github.com/SaalgaDev"> GitHub </a> </p> <p align="center"> <i>Always learning. Always building. Always improving.</i> </p>
