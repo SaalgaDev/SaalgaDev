@@ -1,66 +1,8 @@
-<div align="center">
-Gustavo Salgado
-
-Systems Development Student · Back-end Development · Java, SQL & JavaScript
-
-📍 São Paulo, Brazil · Open to Internship Opportunities
-
-
-
-
-
-</div>
-01 — whoiam
-
-I'm a third-year Systems Development student at ETEC, currently seeking my first opportunity as an Intern or Apprentice in Technology.
-
-Throughout my studies I've worked on projects involving Python, Java, SQL, JavaScript, C#, and web development, applying programming and data analysis skills to solve practical challenges and improve system efficiency.
-
-My main interests are Back-end Development and Data Analysis — I enjoy understanding how technology transforms raw information into valuable solutions. Fluent in English, highly motivated to learn, and always looking for opportunities to grow and contribute to meaningful projects.
-
-02 — stack
-
-Core:
-
-
-
-
-
-
-
-
-
-
-Frameworks & Data:
-
-
-
-
-
-
-
-
-03 — projects
-🎯 Eranitor — Capstone Project (TCC)
-
-A study management and academic organization platform.
-
-Frontend in Angular 17+ (standalone components), TypeScript & SCSS
-Backend in Java Spring Boot with JWT authentication + PostgreSQL
-Custom task-prioritization algorithm (difficulty, proximity, delay and progress)
-Long-term vision: gamified learning (XP, streaks, achievements)
-🌐 TechSolutions Brasil — Integrative Project
-
-Full corporate network simulation built in Cisco Packet Tracer.
-
-3 buildings, 7 floors each, 11 VLANs, WAN and OSPF
-Complete CLI configuration for 21 L2 switches, 3 L3 switches and 3 routers
-DHCP relay across a full WAN + OSPF path to a central server
-04 — status
-
-🟢 Open to internships, networking, and new challenges.
-🎯 Focused on Back-end Development & Data Analysis.
-📚 Currently deepening knowledge in Java, Spring and React.
-
-📊 GitHub Stats
-<div align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaalgaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true&cache_seconds=1800" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaalgaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" /> </div>
+<h1 align="center">Gustavo Salgado</h1> <p align="center"> <strong>Systems Development Student · Back-end Developer · Java, SQL & JavaScript</strong> </p> <p align="center"> 📍 São Paulo, Brazil · 💼 Open to Internship Opportunities </p> <p align="center"> <a href="https://www.linkedin.com/in/gustavo-salgado-de-almeida/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/salgadinz/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="mailto:seuemail@exemplo.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+<h2>👨‍💻 About Me</h2> <p> I'm a third-year <strong>Systems Development</strong> student at ETEC, currently seeking my first opportunity as an <strong>Intern or Apprentice in Technology</strong>. </p> <p> Throughout my studies, I've developed projects using <strong>Java, Python, SQL, JavaScript, C#</strong> and modern web technologies, applying programming and data analysis concepts to solve practical problems. </p> <p> My main interests are <strong>Back-end Development</strong> and <strong>Data Analysis</strong>. I enjoy understanding how systems work behind the scenes and how data can be transformed into useful solutions. </p> <p> 🌎 Fluent in English &nbsp;·&nbsp; 📚 Constantly learning &nbsp;·&nbsp; 🚀 Open to new opportunities </p>
+<h2>🛠️ Tech Stack</h2> <h3>Languages</h3> <p> <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" alt="Languages"> </p> <h3>Web Development</h3> <p> <img src="https://skillicons.dev/icons?i=html,css,angular,react" alt="Web Development"> </p> <h3>Backend & Database</h3> <p> <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql" alt="Backend and Database"> </p> <h3>Tools</h3> <p> <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools"> </p>
+<h2>🚀 Featured Projects</h2> <h3>🎯 Eranitor — Capstone Project (TCC)</h3> <p> A study management and academic organization platform designed to help students organize tasks and improve their academic productivity. </p> <ul> <li>Frontend built with <strong>Angular 17+</strong>, TypeScript and SCSS</li> <li>Backend developed with <strong>Java + Spring Boot</strong></li> <li><strong>JWT authentication</strong></li> <li><strong>PostgreSQL</strong> database</li> <li>Custom task-prioritization algorithm based on difficulty, proximity, delay and progress</li> <li>Long-term vision including XP, streaks and achievements</li> </ul> <h3>🌐 TechSolutions Brasil — Integrative Project</h3> <p> A complete corporate network simulation developed using <strong>Cisco Packet Tracer</strong>. </p> <ul> <li>3 buildings with 7 floors each</li> <li>11 VLANs</li> <li>WAN infrastructure</li> <li>OSPF routing</li> <li>21 Layer 2 switches</li> <li>3 Layer 3 switches</li> <li>3 routers</li> <li>DHCP relay across the WAN</li> </ul>
+<h2>🎯 Current Focus</h2> <table> <tr> <td>💻 <strong>Back-end</strong></td> <td>Java · Spring Boot · REST APIs</td> </tr> <tr> <td>🗄️ <strong>Databases</strong></td> <td>SQL · MySQL · PostgreSQL</td> </tr> <tr> <td>📊 <strong>Data</strong></td> <td>Python · Data Analysis</td> </tr> <tr> <td>🌐 <strong>Frontend</strong></td> <td>Angular · React · TypeScript</td> </tr> </table>
+<h2>📊 GitHub Statistics</h2> <p align="center"> <a href="https://github.com/SaalgaDev"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaalgaDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Gustavo's GitHub Stats"> </a> <a href="https://github.com/SaalgaDev"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaalgaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"> </a> </p>
+<h2>📈 Contribution Streak</h2> <p align="center"> <img src="https://streak-stats.demolab.com?user=SaalgaDev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"> </p>
+<h2>📫 Let's Connect</h2> <p align="center"> <strong>Open to internships, networking and opportunities in technology.</strong> </p> <p align="center"> <a href="https://www.linkedin.com/in/gustavo-salgado-de-almeida/"> LinkedIn </a> &nbsp; • &nbsp; <a href="https://www.instagram.com/salgadinz/"> Instagram </a> &nbsp; • &nbsp; <a href="https://github.com/SaalgaDev"> GitHub </a> </p> <p align="center"> <i>Always learning. Always building. Always improving.</i> </p>
