@@ -14,7 +14,7 @@ the scenes and how data can be transformed into useful solutions.
 
 </div> </div> <p align="center"> 🌎 Fluent in English &nbsp;·&nbsp; 📚 Constantly learning &nbsp;·&nbsp; 🚀 Open to new opportunities </p>
 <h2 align="center">🚀 🛠️ Tech Stack</h2> <h3 align="center">Languages</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" alt="Languages"> </p> <h3 align="center">Web Development</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,angular,react" alt="Web Development"> </p> <h3 align="center">Backend & Database</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql" alt="Backend and Database"> </p> <h3 align="center">Tools</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools"> </p>
-<h2 align="center">🎯 Current Focus</h2> <p align="center"> 💻 <strong>Back-end</strong> · Java · Spring Boot · REST APIs </p> <p align="center"> 🗄️ <strong>Databases</strong> · SQL · MySQL · PostgreSQL </p> <p align="center"> 📊 <strong>Data</strong> · Python · Data Analysis </p> <p align="center"> 🌐 <strong>Frontend</strong> · Angular · React · TypeScript </p>
+<h2 align="center">
 <h2 align="center">📊 GitHub Statistics</h2> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaalgaDev&theme=tokyonight" height="170" alt="Gustavo's GitHub Statistics" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaalgaDev&theme=tokyonight" height="170" alt="Gustavo's Top Languages" />
