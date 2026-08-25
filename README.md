@@ -14,7 +14,7 @@
 
 ---
 
-## 01 — whoami
+## 01 — whoiam
 
 I'm a third-year **Systems Development** student at ETEC, currently seeking my first opportunity as an **Intern or Apprentice in Technology**.
 
@@ -32,7 +32,6 @@ My main interests are **Back-end Development** and **Data Analysis** — I enjoy
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
-![C#](https://skillicons.dev/icons?i=cs)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML5](https://skillicons.dev/icons?i=html)
@@ -43,7 +42,6 @@ My main interests are **Back-end Development** and **Data Analysis** — I enjoy
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![React](https://skillicons.dev/icons?i=react)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Figma](https://skillicons.dev/icons?i=figma)
@@ -65,33 +63,9 @@ Full corporate network simulation built in Cisco Packet Tracer.
 - Complete CLI configuration for 21 L2 switches, 3 L3 switches and 3 routers
 - DHCP relay across a full WAN + OSPF path to a central server
 
-### 🐍 Smaller academic projects
-| Project | Description | Stack |
-|---|---|---|
-| [Python-IMC-test](https://github.com/SaalgaDev/Python-IMC-test) | BMI calculator with input validation | Python |
-| [Gerenciar-compras](https://github.com/SaalgaDev/Gerenciar-compras) | File-based purchase logging & search system | C++ |
-| [PassWord-python](https://github.com/SaalgaDev/PassWord-python) | Password checker with attempt limit | Python |
-| [CelsiusFahrenheit-python](https://github.com/SaalgaDev/CelsiusFahrenheit-python) | Temperature converter | Python |
-
 ---
 
-## 04 — the route
-
-```
-ETEC — Systems Development (in progress)
-   │
-   ├─ Java course: 13 standalone exercises (loops, arrays, validation, recursion)
-   │
-   ├─ TechSolutions Brasil — corporate network simulation (Packet Tracer)
-   │
-   └─ Eranitor — capstone project (Angular + Spring Boot) ── in development
-                                                                     │
-                                                          seeking first internship ►
-```
-
----
-
-## 05 — status
+## 04 — status
 
 🟢 **Open to internships, networking, and new challenges.**
 🎯 Focused on Back-end Development & Data Analysis.
