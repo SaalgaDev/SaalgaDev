@@ -13,7 +13,71 @@ My main interests are <strong>Back-end Development</strong> and
 the scenes and how data can be transformed into useful solutions.
 
 </div> </div> <p align="center"> 🌎 Fluent in English &nbsp;·&nbsp; 📚 Constantly learning &nbsp;·&nbsp; 🚀 Open to new opportunities </p>
-<h2 align="center">🚀 🛠️ Tech Stack</h2> <h3 align="center">Languages</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" alt="Languages"> </p> <h3 align="center">Web Development</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,angular,react" alt="Web Development"> </p> <h3 align="center">Backend & Database</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql" alt="Backend and Database"> </p> <h3 align="center">Tools</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools"> </p>
+<h2 align="center">🚀 🛠️ Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <!-- LANGUAGES -->
+    <td align="center" valign="top">
+      <h3>Languages</h3>
+
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java">
+
+      <br>
+
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript">
+
+      <br>
+
+      <img src="https://skillicons.dev/icons?i=c" width="48" alt="C">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++">
+
+      <br>
+
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python">
+    </td>
+
+    <!-- WEB DEVELOPMENT -->
+    <td align="center" valign="top">
+      <h3>Web Development</h3>
+
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS">
+
+      <br>
+
+      <img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React">
+    </td>
+
+    <!-- BACKEND & DATABASE -->
+    <td align="center" valign="top">
+      <h3>Backend & Database</h3>
+
+      <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring">
+
+      <br>
+
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL">
+    </td>
+
+    <!-- TOOLS -->
+    <td align="center" valign="top">
+      <h3>Tools</h3>
+
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub">
+
+      <br>
+
+      <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code">
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">📊 GitHub Statistics</h2> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaalgaDev&theme=tokyonight" height="170" alt="Gustavo's GitHub Statistics" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaalgaDev&theme=tokyonight" height="170" alt="Gustavo's Top Languages" />
